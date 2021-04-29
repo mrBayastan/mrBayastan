@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrBayastan
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning HTML, CSS, JavaScript, SCSS, ReactJS, NodeJS.
+- 📫 How to reach me telegram => https://t.me/pechenkafob gmail=> abdrahmanov.bstn@gmail.com 
